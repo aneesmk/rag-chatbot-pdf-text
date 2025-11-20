@@ -13,8 +13,3 @@ A simple Retrieval-Augmented Generation (RAG) based chatbot that reads data from
 - LangChain / Similar RAG framework
 - LLM (Ollama / OpenAI / etc.)
 
-## How to Run
-
-```bash
-pip install -r requirements.txt
-python app.py
